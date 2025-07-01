@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on **Web Development projects**
 
-- 🌱 I’m currently learning **Web Development, DSA**
+- 🌱 I’m currently learning **Web Dev, DSA, System Designs**
 
 - 👨‍💻 All of my projects are available at [gopalpayghan.me](gopalpayghan.me)
 
