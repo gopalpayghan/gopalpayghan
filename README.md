@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwtf_xOmMtZp0GEJSVHsudNPLj8N4qamwioz-tJlZO8CqJVnyLoberhyphenhyphen1-HZdwWP60jeP6AD-1inpi_UOa30TH9BCQeH3nfCc0mlNuZhlgTWGjvAIt6YbBWzj1JNcnMvvFmyys4cYdrdFsKKQUiGOOe6eS240e0fPvtNtS-pU2rDjjbyNH4iwWqRDWwIkY/s2000/Hi%20there,%20I'm%20Gopal%20Payghan%F0%9F%91%8B.gif)
+
 - 🔭 I’m currently working on **Web Development projects**
 
 - 🌱 I’m currently learning **Web Development, DSA**
